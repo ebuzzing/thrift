@@ -15,5 +15,10 @@
     "autoload": {
         "psr-0": {"Thrift": "lib/php/lib/"}
     },
-    "minimum-stability": "dev"
+    "minimum-stability": "dev",
+    "extra": {
+        "branch-alias": {
+            "dev-master": "0.9.x-dev"
+        }
+    }
 }
