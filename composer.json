@@ -1,7 +1,7 @@
 {
     "name": "ebuzzing/thrift",
     "description": "Thrift fork",
-    "homepage": "https://github.com/ebuzzing/thrift.git",
+    "homepage": "https://github.com/overblog/thrift.git",
     "type": "library",
     "authors": [
     {
